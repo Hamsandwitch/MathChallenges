@@ -1,0 +1,12 @@
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe.config
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.pdb
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.exe
+C:\PROJECT_MAIN\MathExercises\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.pdb
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe.config
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.exe
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.pdb
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\obj\Debug\EvenFibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.exe
+C:\PROJECT_MAIN\MathFun\MathExercises\EvenFibonacciNumbers\bin\Debug\EvenFibonacciNumbers.pdb
